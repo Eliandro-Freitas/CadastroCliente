@@ -7,7 +7,6 @@ package Cadastro_Cliente;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import Cadastro_Cliente.UICadastro_Cliente;
 
 /**
  *
